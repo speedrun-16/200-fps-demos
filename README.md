@@ -6,11 +6,14 @@ This repository is a structured archive for personal best demos achieved in the 
 
 | Map Name | Demos | Last Updated |
 | :--- | :---- | :--- |
+| [speedrun_evi_big_long](./speedrun_evi_big_long) | 1 | 2025-09-14 |
 | [speedrun_evidens](./speedrun_evidens) | 1 | 2025-09-14 |
+| [speedrun_pool_simple](./speedrun_pool_simple) | 1 | 2025-09-14 |
+| [speedrun_revived_v1](./speedrun_revived_v1) | 1 | 2025-09-14 |
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 1 | 2025-09-14 |
 
 ---
 
 ### Statistics
-- Total Maps: **2**
-- Total Demos: **2**
+- Total Maps: **5**
+- Total Demos: **5**
