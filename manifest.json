@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "01d552f4c52debaca41e5f567c162e323f5d66472f0b7b7caa25124ed865ff1e",
+    "uid": "8KI02R955",
+    "map": "speedrun_runners",
+    "category": 3,
+    "time": 13090,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-09-15T05:28:22.000Z",
+    "zipFilename": "00013090_STEAM_0_1_29970948_20250915-052822.zip",
+    "path": "speedrun_runners/00013090_STEAM_0_1_29970948_20250915-052822.zip",
+    "archivedAt": "2025-09-15T06:00:04.623Z"
+  },
+  {
     "demFileHash": "0aed5298a4697a6c0056870ff3333ae174289194b5b4219421df7505dd640dd7",
     "uid": "KPLAHMYHH",
     "map": "speedrun_phe3",

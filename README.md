@@ -13,10 +13,11 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_phe3](./speedrun_phe3) | 1 | 2025-09-14 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 1 | 2025-09-14 |
 | [speedrun_revived_v1](./speedrun_revived_v1) | 1 | 2025-09-14 |
+| [speedrun_runners](./speedrun_runners) | 1 | 2025-09-15 |
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 1 | 2025-09-14 |
 
 ---
 
 ### Statistics
-- Total Maps: **8**
-- Total Demos: **9**
+- Total Maps: **9**
+- Total Demos: **10**
