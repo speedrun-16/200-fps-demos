@@ -18,11 +18,11 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_revived_v1](./speedrun_revived_v1) | 1 | 2025-09-14 |
 | [speedrun_runners](./speedrun_runners) | 4 | 2025-09-16 |
 | [speedrun_tr](./speedrun_tr) | 1 | 2025-09-15 |
-| [speedrun_w00dfun](./speedrun_w00dfun) | 2 | 2025-09-15 |
+| [speedrun_w00dfun](./speedrun_w00dfun) | 3 | 2025-09-17 |
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 1 | 2025-09-14 |
 
 ---
 
 ### Statistics
 - Total Maps: **14**
-- Total Demos: **24**
+- Total Demos: **25**
