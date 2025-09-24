@@ -10,6 +10,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_fusion_ancient](./deathrun_fusion_ancient) | 1 | 2025-09-16 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 1 | 2025-09-22 |
 | [speedrun_dust2_kaniel](./speedrun_dust2_kaniel) | 1 | 2025-09-14 |
+| [speedrun_error](./speedrun_error) | 1 | 2025-09-23 |
 | [speedrun_evi_big_long](./speedrun_evi_big_long) | 1 | 2025-09-14 |
 | [speedrun_evidens](./speedrun_evidens) | 1 | 2025-09-14 |
 | [speedrun_evidens_big](./speedrun_evidens_big) | 2 | 2025-09-14 |
@@ -25,11 +26,11 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_runners](./speedrun_runners) | 4 | 2025-09-16 |
 | [speedrun_several](./speedrun_several) | 1 | 2025-09-21 |
 | [speedrun_tr](./speedrun_tr) | 1 | 2025-09-15 |
-| [speedrun_w00dfun](./speedrun_w00dfun) | 3 | 2025-09-20 |
+| [speedrun_w00dfun](./speedrun_w00dfun) | 4 | 2025-09-23 |
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 1 | 2025-09-14 |
 
 ---
 
 ### Statistics
-- Total Maps: **21**
-- Total Demos: **39**
+- Total Maps: **22**
+- Total Demos: **41**
