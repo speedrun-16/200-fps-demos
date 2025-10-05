@@ -29,7 +29,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_revived_v1](./speedrun_revived_v1) | 1 | 2025-09-14 |
 | [speedrun_runners](./speedrun_runners) | 4 | 2025-09-16 |
 | [speedrun_several](./speedrun_several) | 1 | 2025-09-21 |
-| [speedrun_svet_ext](./speedrun_svet_ext) | 1 | 2025-09-27 |
+| [speedrun_svet_ext](./speedrun_svet_ext) | 1 | 2025-10-05 |
 | [speedrun_tr](./speedrun_tr) | 1 | 2025-09-15 |
 | [speedrun_w00dfun](./speedrun_w00dfun) | 5 | 2025-09-24 |
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 1 | 2025-09-14 |
