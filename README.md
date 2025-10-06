@@ -11,6 +11,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_fusion_ancient](./deathrun_fusion_ancient) | 1 | 2025-09-16 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 1 | 2025-09-22 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 1 | 2025-09-29 |
+| [speedrun_30min](./speedrun_30min) | 2 | 2025-10-06 |
 | [speedrun_dust2_kaniel](./speedrun_dust2_kaniel) | 1 | 2025-09-14 |
 | [speedrun_error](./speedrun_error) | 1 | 2025-09-23 |
 | [speedrun_euphoria](./speedrun_euphoria) | 1 | 2025-10-05 |
@@ -35,9 +36,10 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_tr](./speedrun_tr) | 1 | 2025-09-15 |
 | [speedrun_w00dfun](./speedrun_w00dfun) | 5 | 2025-09-24 |
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 1 | 2025-09-14 |
+| [speedrun_wampirex](./speedrun_wampirex) | 1 | 2025-10-06 |
 
 ---
 
 ### Statistics
-- Total Maps: **29**
-- Total Demos: **52**
+- Total Maps: **31**
+- Total Demos: **55**
