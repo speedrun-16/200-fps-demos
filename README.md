@@ -14,6 +14,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_30min](./speedrun_30min) | 2 | 2025-10-06 |
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 1 | 2025-10-11 |
 | [speedrun_blue](./speedrun_blue) | 2 | 2025-10-16 |
+| [speedrun_confusion3](./speedrun_confusion3) | 1 | 2025-10-18 |
 | [speedrun_dust2_kaniel](./speedrun_dust2_kaniel) | 1 | 2025-09-14 |
 | [speedrun_error](./speedrun_error) | 1 | 2025-09-23 |
 | [speedrun_euphoria](./speedrun_euphoria) | 1 | 2025-10-05 |
@@ -31,6 +32,8 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_pool_simple](./speedrun_pool_simple) | 4 | 2025-09-16 |
 | [speedrun_pupsik3](./speedrun_pupsik3) | 3 | 2025-09-16 |
 | [speedrun_r3x_final](./speedrun_r3x_final) | 3 | 2025-09-21 |
+| [speedrun_reloaded_edition](./speedrun_reloaded_edition) | 1 | 2025-10-18 |
+| [speedrun_retro](./speedrun_retro) | 1 | 2025-10-18 |
 | [speedrun_retro_pro](./speedrun_retro_pro) | 3 | 2025-09-21 |
 | [speedrun_retz](./speedrun_retz) | 1 | 2025-10-14 |
 | [speedrun_revived_v1](./speedrun_revived_v1) | 1 | 2025-09-14 |
@@ -45,5 +48,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **35**
-- Total Demos: **61**
+- Total Maps: **38**
+- Total Demos: **64**
