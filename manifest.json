@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "1fe8e9067a44f6d472981ae41d6582bdbbccdc3e71a8bcb81fefaac20c592249",
+    "uid": "IB7Z06LIM",
+    "map": "speedrun_poland",
+    "category": 3,
+    "time": 10992,
+    "playerSteamId": "STEAM_0:1:578685909",
+    "timestamp": "2025-10-19T17:28:37.000Z",
+    "zipFilename": "00010992_STEAM_0_1_578685909_20251019-172837.zip",
+    "path": "speedrun_poland/00010992_STEAM_0_1_578685909_20251019-172837.zip",
+    "archivedAt": "2025-10-19T18:00:04.798Z"
+  },
+  {
     "demFileHash": "48f2ab2d87187732bdb5c71d2605bbaea6ee5a7ba9262cfb914662d73c8835eb",
     "uid": "RGZ5EV4UV",
     "map": "speedrun_confusion3",
