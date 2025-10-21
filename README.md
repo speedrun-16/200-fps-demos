@@ -7,6 +7,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | Map Name | Demos | Last Updated |
 | :--- | :---- | :--- |
 | [de_dust](./de_dust) | 2 | 2025-10-15 |
+| [de_dust2](./de_dust2) | 3 | 2025-10-20 |
 | [deathrun_arctic](./deathrun_arctic) | 2 | 2025-09-22 |
 | [deathrun_fusion_ancient](./deathrun_fusion_ancient) | 1 | 2025-09-16 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 1 | 2025-09-22 |
@@ -50,5 +51,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **40**
-- Total Demos: **68**
+- Total Maps: **41**
+- Total Demos: **71**
