@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "e799f5390a865f962ee58a656adc7ba0f1bb9880908f160c566d5b7f1fd2efb4",
+    "uid": "C7FXS7DG8",
+    "map": "speedrun_garden",
+    "category": 3,
+    "time": 10754,
+    "playerSteamId": "STEAM_0:1:535182532",
+    "timestamp": "2025-10-23T17:15:03.000Z",
+    "zipFilename": "00010754_STEAM_0_1_535182532_20251023-171503.zip",
+    "path": "speedrun_garden/00010754_STEAM_0_1_535182532_20251023-171503.zip",
+    "archivedAt": "2025-10-23T18:00:04.819Z"
+  },
+  {
     "demFileHash": "94df44e63e1c27cca21f1b7d695d10c02cbd54abcb9f7fb7daa53b1cc9dd619c",
     "uid": "JKD81QVIL",
     "map": "speedrun_solitude",
