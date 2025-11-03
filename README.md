@@ -12,7 +12,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_arctic](./deathrun_arctic) | 2 | 2025-09-22 |
 | [deathrun_fusion_ancient](./deathrun_fusion_ancient) | 1 | 2025-09-16 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 1 | 2025-09-22 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 1 | 2025-10-25 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 1 | 2025-11-03 |
 | [speedrun_30min](./speedrun_30min) | 2 | 2025-10-06 |
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 1 | 2025-10-11 |
 | [speedrun_blue](./speedrun_blue) | 2 | 2025-10-16 |
