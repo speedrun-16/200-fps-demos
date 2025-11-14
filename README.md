@@ -17,10 +17,11 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_30min](./speedrun_30min) | 2 | 2025-10-06 |
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 1 | 2025-10-11 |
 | [speedrun_blue](./speedrun_blue) | 2 | 2025-10-16 |
-| [speedrun_chemical](./speedrun_chemical) | 3 | 2025-11-12 |
+| [speedrun_chemical](./speedrun_chemical) | 4 | 2025-11-14 |
 | [speedrun_chemicalz](./speedrun_chemicalz) | 1 | 2025-11-12 |
 | [speedrun_confusion3](./speedrun_confusion3) | 3 | 2025-10-20 |
 | [speedrun_dust2_kaniel](./speedrun_dust2_kaniel) | 1 | 2025-09-14 |
+| [speedrun_easy_v1](./speedrun_easy_v1) | 1 | 2025-11-14 |
 | [speedrun_error](./speedrun_error) | 1 | 2025-09-23 |
 | [speedrun_euphoria](./speedrun_euphoria) | 1 | 2025-10-05 |
 | [speedrun_evi_big_long](./speedrun_evi_big_long) | 1 | 2025-09-14 |
@@ -60,5 +61,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **50**
-- Total Demos: **86**
+- Total Maps: **51**
+- Total Demos: **88**
