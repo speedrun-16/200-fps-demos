@@ -23,6 +23,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_confusion3](./speedrun_confusion3) | 3 | 2025-10-20 |
 | [speedrun_dust2_kaniel](./speedrun_dust2_kaniel) | 1 | 2025-09-14 |
 | [speedrun_easy_v1](./speedrun_easy_v1) | 1 | 2025-11-14 |
+| [speedrun_eliterunnerz](./speedrun_eliterunnerz) | 1 | 2025-12-09 |
 | [speedrun_error](./speedrun_error) | 1 | 2025-09-23 |
 | [speedrun_euphoria](./speedrun_euphoria) | 1 | 2025-10-05 |
 | [speedrun_evi_big_long](./speedrun_evi_big_long) | 1 | 2025-09-14 |
@@ -69,5 +70,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **59**
-- Total Demos: **107**
+- Total Maps: **60**
+- Total Demos: **108**
