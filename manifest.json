@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "4f3304dc7a405a49f377f58790586761e529d50db75bb51dad5917cf9704c085",
+    "uid": "TXSXSF0V5",
+    "map": "speedrun_several_trilogy",
+    "category": 3,
+    "time": 12739,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2025-12-13T08:10:27.000Z",
+    "zipFilename": "00012739_STEAM_0_1_771348382_20251213-081027.zip",
+    "path": "speedrun_several_trilogy/00012739_STEAM_0_1_771348382_20251213-081027.zip",
+    "archivedAt": "2025-12-13T12:00:16.360Z"
+  },
+  {
     "demFileHash": "7fd4aef8eeed3bca9f01edd4d24b8d5ef9828f04b68a90c54016ea449a81f286",
     "uid": "7LIL5B8AY",
     "map": "speedrun_1000fps_battle",
