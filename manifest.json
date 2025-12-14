@@ -1,5 +1,29 @@
 [
   {
+    "demFileHash": "1180b3f211995c911ad0b9e621b3a7b407e8c6893177341f8934e7d35662364b",
+    "uid": "RQVFNWE3Q",
+    "map": "speedrun_easy_v1",
+    "category": 3,
+    "time": 12966,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-12-13T19:07:30.000Z",
+    "zipFilename": "00012966_STEAM_0_1_796767048_20251213-190730.zip",
+    "path": "speedrun_easy_v1/00012966_STEAM_0_1_796767048_20251213-190730.zip",
+    "archivedAt": "2025-12-14T00:00:01.065Z"
+  },
+  {
+    "demFileHash": "e71d8dffa850a65fe2d91ae54552d720f1945a5eddbbe01d382b73833c221092",
+    "uid": "H1V1XTR9E",
+    "map": "speedrun_1000fps_battle",
+    "category": 3,
+    "time": 8792,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-12-13T19:17:30.000Z",
+    "zipFilename": "00008792_STEAM_0_1_796767048_20251213-191730.zip",
+    "path": "speedrun_1000fps_battle/00008792_STEAM_0_1_796767048_20251213-191730.zip",
+    "archivedAt": "2025-12-14T00:00:01.065Z"
+  },
+  {
     "demFileHash": "4f3304dc7a405a49f377f58790586761e529d50db75bb51dad5917cf9704c085",
     "uid": "TXSXSF0V5",
     "map": "speedrun_several_trilogy",
@@ -252,18 +276,6 @@
     "archivedAt": "2025-11-19T18:00:24.758Z"
   },
   {
-    "demFileHash": "d2059f9c75c4514765cc5bc9ad330234ae523974919652d47653d1a153bfb3f2",
-    "uid": "GBNX0CZA5",
-    "map": "speedrun_1000fps_battle",
-    "category": 3,
-    "time": 9117,
-    "playerSteamId": "STEAM_0:1:796767048",
-    "timestamp": "2025-11-19T17:06:22.000Z",
-    "zipFilename": "00009117_STEAM_0_1_796767048_20251119-170622.zip",
-    "path": "speedrun_1000fps_battle/00009117_STEAM_0_1_796767048_20251119-170622.zip",
-    "archivedAt": "2025-11-19T18:00:24.758Z"
-  },
-  {
     "demFileHash": "71eb73c18ea08f3c2c6f5e0e1a5cca6dcb371c1b999f04ba7aad0ad22b7e992a",
     "uid": "PKFDGV0LV",
     "map": "speedrun_w00dfun",
@@ -309,18 +321,6 @@
     "timestamp": "2025-11-14T16:20:59.000Z",
     "zipFilename": "00008294_STEAM_0_1_796767048_20251114-162059.zip",
     "path": "speedrun_chemical/00008294_STEAM_0_1_796767048_20251114-162059.zip",
-    "archivedAt": "2025-11-14T18:00:14.798Z"
-  },
-  {
-    "demFileHash": "481b6bf82dfc485b8c267f6f41cec5ce0899bb0f2981d52a44dcdb3c7f7097b9",
-    "uid": "YPOM7AQHW",
-    "map": "speedrun_easy_v1",
-    "category": 3,
-    "time": 12967,
-    "playerSteamId": "STEAM_0:1:796767048",
-    "timestamp": "2025-11-14T14:46:48.000Z",
-    "zipFilename": "00012967_STEAM_0_1_796767048_20251114-144648.zip",
-    "path": "speedrun_easy_v1/00012967_STEAM_0_1_796767048_20251114-144648.zip",
     "archivedAt": "2025-11-14T18:00:14.798Z"
   },
   {

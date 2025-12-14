@@ -13,7 +13,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_chemical](./deathrun_chemical) | 1 | 2025-11-09 |
 | [deathrun_fusion_ancient](./deathrun_fusion_ancient) | 1 | 2025-09-16 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 1 | 2025-09-22 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 4 | 2025-12-11 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 4 | 2025-12-13 |
 | [speedrun_30min](./speedrun_30min) | 2 | 2025-10-06 |
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 1 | 2025-10-11 |
 | [speedrun_bieber](./speedrun_bieber) | 1 | 2025-11-17 |
@@ -22,7 +22,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_chemicalz](./speedrun_chemicalz) | 1 | 2025-11-12 |
 | [speedrun_confusion3](./speedrun_confusion3) | 3 | 2025-10-20 |
 | [speedrun_dust2_kaniel](./speedrun_dust2_kaniel) | 1 | 2025-09-14 |
-| [speedrun_easy_v1](./speedrun_easy_v1) | 1 | 2025-11-14 |
+| [speedrun_easy_v1](./speedrun_easy_v1) | 1 | 2025-12-13 |
 | [speedrun_eliterunnerz](./speedrun_eliterunnerz) | 1 | 2025-12-09 |
 | [speedrun_error](./speedrun_error) | 1 | 2025-09-23 |
 | [speedrun_euphoria](./speedrun_euphoria) | 1 | 2025-10-05 |
