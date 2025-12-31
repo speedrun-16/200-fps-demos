@@ -31,6 +31,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_evidens_big](./speedrun_evidens_big) | 2 | 2025-09-14 |
 | [speedrun_exort](./speedrun_exort) | 1 | 2025-12-16 |
 | [speedrun_faded_bronze](./speedrun_faded_bronze) | 1 | 2025-11-19 |
+| [speedrun_fastrun](./speedrun_fastrun) | 1 | 2025-12-30 |
 | [speedrun_garden](./speedrun_garden) | 1 | 2025-10-23 |
 | [speedrun_grasz](./speedrun_grasz) | 3 | 2025-09-24 |
 | [speedrun_grasz_final](./speedrun_grasz_final) | 3 | 2025-11-25 |
@@ -59,6 +60,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_several_longer](./speedrun_several_longer) | 1 | 2025-12-02 |
 | [speedrun_several_trilogy](./speedrun_several_trilogy) | 1 | 2025-12-13 |
 | [speedrun_solitude](./speedrun_solitude) | 1 | 2025-10-22 |
+| [speedrun_superspeedrun](./speedrun_superspeedrun) | 1 | 2025-12-30 |
 | [speedrun_svet](./speedrun_svet) | 1 | 2025-12-06 |
 | [speedrun_svet_ext](./speedrun_svet_ext) | 2 | 2025-12-07 |
 | [speedrun_TN_f](./speedrun_TN_f) | 1 | 2025-11-04 |
@@ -73,5 +75,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **63**
-- Total Demos: **113**
+- Total Maps: **65**
+- Total Demos: **115**
