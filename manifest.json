@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "85aff839f865627dd33e8e686da7494abf20e3a1d4c8a9828d6eafdd4b5cbf63",
+    "uid": "6X8IA5GGF",
+    "map": "speedrun_maze_seed2_test",
+    "category": 3,
+    "time": 16692,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2026-01-09T01:26:25.000Z",
+    "zipFilename": "00016692_STEAM_0_1_408712_20260109-012625.zip",
+    "path": "speedrun_maze_seed2_test/00016692_STEAM_0_1_408712_20260109-012625.zip",
+    "archivedAt": "2026-01-09T06:00:09.247Z"
+  },
+  {
     "demFileHash": "7bfedaa8019373e98909b49efed78ca7d832392aef393e26178789153fc295c9",
     "uid": "OXTRPEGAY",
     "map": "speedrun_illumination",
