@@ -69,7 +69,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_tr](./speedrun_tr) | 4 | 2025-11-20 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 2 | 2025-11-21 |
 | [speedrun_veryeasy](./speedrun_veryeasy) | 1 | 2025-12-26 |
-| [speedrun_w00dfun](./speedrun_w00dfun) | 6 | 2025-11-19 |
+| [speedrun_w00dfun](./speedrun_w00dfun) | 6 | 2026-01-12 |
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 1 | 2025-09-14 |
 | [speedrun_wampirex](./speedrun_wampirex) | 1 | 2025-10-06 |
 | [speedrun_yagrehsart_fix](./speedrun_yagrehsart_fix) | 2 | 2025-11-29 |
