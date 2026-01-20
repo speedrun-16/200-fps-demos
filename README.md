@@ -6,7 +6,7 @@ This repository is a structured archive for personal best demos achieved in the 
 
 | Map Name | Demos | Last Updated |
 | :--- | :---- | :--- |
-| [de_dust](./de_dust) | 2 | 2025-10-15 |
+| [de_dust](./de_dust) | 3 | 2026-01-19 |
 | [de_dust2](./de_dust2) | 3 | 2025-10-20 |
 | [de_inferno](./de_inferno) | 1 | 2025-10-31 |
 | [deathrun_arctic](./deathrun_arctic) | 3 | 2025-12-20 |
@@ -49,6 +49,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_phe3](./speedrun_phe3) | 1 | 2025-09-14 |
 | [speedrun_poland](./speedrun_poland) | 1 | 2025-10-19 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 4 | 2025-12-19 |
+| [speedrun_pryda_v2](./speedrun_pryda_v2) | 1 | 2026-01-19 |
 | [speedrun_pupsik3](./speedrun_pupsik3) | 3 | 2025-09-16 |
 | [speedrun_r3x_final](./speedrun_r3x_final) | 4 | 2025-10-21 |
 | [speedrun_raduga_fix](./speedrun_raduga_fix) | 1 | 2025-11-11 |
@@ -78,5 +79,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **68**
-- Total Demos: **118**
+- Total Maps: **69**
+- Total Demos: **120**
