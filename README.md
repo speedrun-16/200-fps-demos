@@ -6,7 +6,7 @@ This repository is a structured archive for personal best demos achieved in the 
 
 | Map Name | Demos | Last Updated |
 | :--- | :---- | :--- |
-| [de_dust](./de_dust) | 3 | 2026-01-19 |
+| [de_dust](./de_dust) | 3 | 2026-01-20 |
 | [de_dust2](./de_dust2) | 3 | 2025-10-20 |
 | [de_inferno](./de_inferno) | 1 | 2025-10-31 |
 | [deathrun_arctic](./deathrun_arctic) | 3 | 2025-12-20 |
