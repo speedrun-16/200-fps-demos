@@ -11,6 +11,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [de_inferno](./de_inferno) | 1 | 2025-10-31 |
 | [deathrun_arctic](./deathrun_arctic) | 3 | 2025-12-20 |
 | [deathrun_chemical](./deathrun_chemical) | 1 | 2025-11-09 |
+| [deathrun_forest](./deathrun_forest) | 1 | 2026-02-06 |
 | [deathrun_fusion_ancient](./deathrun_fusion_ancient) | 1 | 2025-09-16 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 1 | 2025-09-22 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 4 | 2026-01-21 |
@@ -84,5 +85,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **74**
-- Total Demos: **125**
+- Total Maps: **75**
+- Total Demos: **126**
