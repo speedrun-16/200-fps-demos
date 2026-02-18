@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "6abaced49323fb30c0225c32f7664b798917160df2d6883f69a2127b9a6fb838",
+    "uid": "JOYS1MNR9",
+    "map": "speedrun_jeans_short",
+    "category": 3,
+    "time": 10510,
+    "playerSteamId": "STEAM_0:0:595867988",
+    "timestamp": "2026-02-18T13:15:29.000Z",
+    "zipFilename": "00010510_STEAM_0_0_595867988_20260218-131529.zip",
+    "path": "speedrun_jeans_short/00010510_STEAM_0_0_595867988_20260218-131529.zip",
+    "archivedAt": "2026-02-18T18:00:11.984Z"
+  },
+  {
     "demFileHash": "33b11f7cd9d079ec020e2a854fdb02adb5082cbb6d1abed4d83fba3090ec7bd5",
     "uid": "C9OZMUGFL",
     "map": "deathrun_green_h",
