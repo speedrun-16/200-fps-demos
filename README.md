@@ -22,7 +22,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_aurea](./speedrun_aurea) | 1 | 2026-04-10 |
 | [speedrun_bieber](./speedrun_bieber) | 1 | 2025-11-17 |
 | [speedrun_blue](./speedrun_blue) | 2 | 2025-10-16 |
-| [speedrun_chemical](./speedrun_chemical) | 4 | 2025-11-14 |
+| [speedrun_chemical](./speedrun_chemical) | 5 | 2026-04-16 |
 | [speedrun_chemicalz](./speedrun_chemicalz) | 1 | 2025-11-12 |
 | [speedrun_confusion3](./speedrun_confusion3) | 3 | 2025-10-20 |
 | [speedrun_dust2_kaniel](./speedrun_dust2_kaniel) | 2 | 2026-04-15 |
@@ -95,4 +95,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **84**
-- Total Demos: **141**
+- Total Demos: **142**
