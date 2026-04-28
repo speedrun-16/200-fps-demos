@@ -88,6 +88,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_vantara](./speedrun_vantara) | 1 | 2026-03-16 |
 | [speedrun_veryeasy](./speedrun_veryeasy) | 1 | 2025-12-26 |
 | [speedrun_voidrun](./speedrun_voidrun) | 1 | 2026-03-06 |
+| [speedrun_vonthe](./speedrun_vonthe) | 1 | 2026-04-27 |
 | [speedrun_w00dfun](./speedrun_w00dfun) | 6 | 2026-01-12 |
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 1 | 2025-09-14 |
 | [speedrun_wampirex](./speedrun_wampirex) | 1 | 2025-10-06 |
@@ -96,5 +97,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **86**
-- Total Demos: **146**
+- Total Maps: **87**
+- Total Demos: **147**
