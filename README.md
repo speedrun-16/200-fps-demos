@@ -73,6 +73,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_revived_v1_max](./speedrun_revived_v1_max) | 1 | 2026-04-28 |
 | [speedrun_rondo_alpha-v1](./speedrun_rondo_alpha-v1) | 2 | 2025-12-06 |
 | [speedrun_runners](./speedrun_runners) | 4 | 2025-09-16 |
+| [speedrun_scumbag2](./speedrun_scumbag2) | 1 | 2026-04-28 |
 | [speedrun_several](./speedrun_several) | 1 | 2025-09-21 |
 | [speedrun_several_longer](./speedrun_several_longer) | 1 | 2025-12-02 |
 | [speedrun_several_trilogy](./speedrun_several_trilogy) | 1 | 2025-12-13 |
@@ -86,7 +87,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_tr](./speedrun_tr) | 5 | 2026-04-16 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 2 | 2025-11-21 |
 | [speedrun_ukraine_beta](./speedrun_ukraine_beta) | 1 | 2026-02-01 |
-| [speedrun_vantara](./speedrun_vantara) | 1 | 2026-03-16 |
+| [speedrun_vantara](./speedrun_vantara) | 3 | 2026-04-28 |
 | [speedrun_veryeasy](./speedrun_veryeasy) | 1 | 2025-12-26 |
 | [speedrun_voidrun](./speedrun_voidrun) | 1 | 2026-03-06 |
 | [speedrun_vonthe](./speedrun_vonthe) | 1 | 2026-04-27 |
@@ -98,5 +99,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **88**
-- Total Demos: **148**
+- Total Maps: **89**
+- Total Demos: **151**
