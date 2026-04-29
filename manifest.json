@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "ba704900a2ec2b63055d57c3fdbd5d8e4c3d6694886d42ce9d4737c692856c39",
+    "uid": "C30NHAAFY",
+    "map": "speedrun_aqua",
+    "category": 3,
+    "time": 15740,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-04-29T14:03:55.000Z",
+    "zipFilename": "00015740_STEAM_0_1_771348382_20260429-140355.zip",
+    "path": "speedrun_aqua/00015740_STEAM_0_1_771348382_20260429-140355.zip",
+    "archivedAt": "2026-04-29T18:00:21.149Z"
+  },
+  {
     "demFileHash": "a21ca4ee85c81866cbf5c3344dac4ee9bdfa43ee11e7e11fca7a402c092e3ea4",
     "uid": "FKYYIRO9X",
     "map": "speedrun_vantara",
