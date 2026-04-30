@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "f31772b4eb01e15122122f8d62fda6b7f20e145be911eb0bae8add30bf79c5cd",
+    "uid": "E3DCKHJMV",
+    "map": "speedrun_leszcz",
+    "category": 3,
+    "time": 11303,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-04-29T18:44:04.000Z",
+    "zipFilename": "00011303_STEAM_0_1_771348382_20260429-184404.zip",
+    "path": "speedrun_leszcz/00011303_STEAM_0_1_771348382_20260429-184404.zip",
+    "archivedAt": "2026-04-30T00:00:12.091Z"
+  },
+  {
     "demFileHash": "ba704900a2ec2b63055d57c3fdbd5d8e4c3d6694886d42ce9d4737c692856c39",
     "uid": "C30NHAAFY",
     "map": "speedrun_aqua",
