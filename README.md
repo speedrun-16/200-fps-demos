@@ -10,6 +10,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [de_dust2](./de_dust2) | 3 | 2025-10-20 |
 | [de_inferno](./de_inferno) | 1 | 2025-10-31 |
 | [deathrun_arctic](./deathrun_arctic) | 3 | 2025-12-20 |
+| [deathrun_bieber_f](./deathrun_bieber_f) | 1 | 2026-05-05 |
 | [deathrun_chemical](./deathrun_chemical) | 1 | 2025-11-09 |
 | [deathrun_forest](./deathrun_forest) | 1 | 2026-02-06 |
 | [deathrun_fusion_ancient](./deathrun_fusion_ancient) | 1 | 2025-09-16 |
@@ -94,7 +95,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_veryeasy](./speedrun_veryeasy) | 1 | 2025-12-26 |
 | [speedrun_voidrun](./speedrun_voidrun) | 1 | 2026-03-06 |
 | [speedrun_vonthe](./speedrun_vonthe) | 1 | 2026-04-27 |
-| [speedrun_w00dfun](./speedrun_w00dfun) | 6 | 2026-05-01 |
+| [speedrun_w00dfun](./speedrun_w00dfun) | 7 | 2026-05-05 |
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 1 | 2025-09-14 |
 | [speedrun_wampirex](./speedrun_wampirex) | 1 | 2025-10-06 |
 | [speedrun_yagrehsart_fix](./speedrun_yagrehsart_fix) | 2 | 2025-11-29 |
@@ -102,5 +103,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **92**
-- Total Demos: **157**
+- Total Maps: **93**
+- Total Demos: **159**
