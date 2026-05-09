@@ -24,6 +24,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 1 | 2025-10-11 |
 | [speedrun_aurea](./speedrun_aurea) | 1 | 2026-04-10 |
 | [speedrun_bieber](./speedrun_bieber) | 1 | 2025-11-17 |
+| [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 1 | 2026-05-09 |
 | [speedrun_blue](./speedrun_blue) | 2 | 2025-10-16 |
 | [speedrun_chemical](./speedrun_chemical) | 6 | 2026-04-19 |
 | [speedrun_chemicalz](./speedrun_chemicalz) | 1 | 2025-11-12 |
@@ -103,5 +104,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **93**
-- Total Demos: **164**
+- Total Maps: **94**
+- Total Demos: **165**
