@@ -16,8 +16,8 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_fusion_ancient](./deathrun_fusion_ancient) | 1 | 2025-09-16 |
 | [deathrun_green_h](./deathrun_green_h) | 1 | 2026-02-16 |
 | [deathrun_greenworld_v1](./deathrun_greenworld_v1) | 1 | 2026-02-16 |
-| [deathrun_w00dfun](./deathrun_w00dfun) | 2 | 2026-05-08 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 6 | 2026-05-03 |
+| [deathrun_w00dfun](./deathrun_w00dfun) | 3 | 2026-05-11 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 7 | 2026-05-11 |
 | [speedrun_30min](./speedrun_30min) | 2 | 2025-10-06 |
 | [speedrun_aqua](./speedrun_aqua) | 1 | 2026-04-29 |
 | [speedrun_artakey](./speedrun_artakey) | 1 | 2026-04-26 |
@@ -105,4 +105,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **94**
-- Total Demos: **165**
+- Total Demos: **167**
