@@ -92,7 +92,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_trasher2](./speedrun_trasher2) | 1 | 2026-05-03 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 2 | 2025-11-21 |
 | [speedrun_ukraine_beta](./speedrun_ukraine_beta) | 1 | 2026-02-01 |
-| [speedrun_vantara](./speedrun_vantara) | 3 | 2026-04-28 |
+| [speedrun_vantara](./speedrun_vantara) | 3 | 2026-05-14 |
 | [speedrun_veryeasy](./speedrun_veryeasy) | 2 | 2026-05-09 |
 | [speedrun_voidrun](./speedrun_voidrun) | 1 | 2026-03-06 |
 | [speedrun_vonthe](./speedrun_vonthe) | 1 | 2026-04-27 |
