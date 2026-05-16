@@ -58,6 +58,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_noob](./speedrun_noob) | 1 | 2026-03-30 |
 | [speedrun_noob2](./speedrun_noob2) | 1 | 2026-05-14 |
 | [speedrun_nuke](./speedrun_nuke) | 1 | 2025-10-30 |
+| [speedrun_outside_estonia](./speedrun_outside_estonia) | 1 | 2026-05-15 |
 | [speedrun_outside_estonia2](./speedrun_outside_estonia2) | 1 | 2026-04-16 |
 | [speedrun_outside_estonia3](./speedrun_outside_estonia3) | 2 | 2025-09-20 |
 | [speedrun_phe3](./speedrun_phe3) | 2 | 2026-05-15 |
@@ -105,5 +106,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **95**
-- Total Demos: **170**
+- Total Maps: **96**
+- Total Demos: **171**
