@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "0fdc5e50b556c3aab6d2aefdf823ed29d12f7ba9fa4ac76e4b4caab35860fd1c",
+    "uid": "KF6IJZRX0",
+    "map": "speedrun_hearts",
+    "category": 3,
+    "time": 12705,
+    "playerSteamId": "STEAM_0:1:87291981",
+    "timestamp": "2026-05-18T15:28:20.000Z",
+    "zipFilename": "00012705_STEAM_0_1_87291981_20260518-152820.zip",
+    "path": "speedrun_hearts/00012705_STEAM_0_1_87291981_20260518-152820.zip",
+    "archivedAt": "2026-05-18T18:00:11.481Z"
+  },
+  {
     "demFileHash": "8ab807c88be5f7269b38fd7bc9de10992bb9e4c1e21bf362718dfa5c8efe3f89",
     "uid": "QASR4MBH1",
     "map": "speedrun_venem_strafeace",
