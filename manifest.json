@@ -1,5 +1,53 @@
 [
   {
+    "demFileHash": "31517e1f812f83b860123669aef095de481bc9dfa0cee5c3039d0541b03e1d48",
+    "uid": "4EK10Y1W3",
+    "map": "speedrun_euphoria",
+    "category": 3,
+    "time": 20454,
+    "playerSteamId": "STEAM_0:1:447056338",
+    "timestamp": "2026-05-19T15:28:04.000Z",
+    "zipFilename": "00020454_STEAM_0_1_447056338_20260519-152804.zip",
+    "path": "speedrun_euphoria/00020454_STEAM_0_1_447056338_20260519-152804.zip",
+    "archivedAt": "2026-05-19T18:00:06.184Z"
+  },
+  {
+    "demFileHash": "62261c68d6d04fd3639da3c9825c7a51b25b9fa98c0a77c2dbd7db37b613ac30",
+    "uid": "CNLCJXK5A",
+    "map": "speedrun_euphoria",
+    "category": 3,
+    "time": 20785,
+    "playerSteamId": "STEAM_0:1:87291981",
+    "timestamp": "2026-05-19T15:16:41.000Z",
+    "zipFilename": "00020785_STEAM_0_1_87291981_20260519-151641.zip",
+    "path": "speedrun_euphoria/00020785_STEAM_0_1_87291981_20260519-151641.zip",
+    "archivedAt": "2026-05-19T18:00:06.184Z"
+  },
+  {
+    "demFileHash": "412e331c857bd388540f07179da96b621239960815c4b742ac3aba8f3be40d88",
+    "uid": "X70TT8ALE",
+    "map": "speedrun_bieber",
+    "category": 3,
+    "time": 13798,
+    "playerSteamId": "STEAM_0:0:193002961",
+    "timestamp": "2026-05-19T12:34:19.000Z",
+    "zipFilename": "00013798_STEAM_0_0_193002961_20260519-123419.zip",
+    "path": "speedrun_bieber/00013798_STEAM_0_0_193002961_20260519-123419.zip",
+    "archivedAt": "2026-05-19T18:00:06.184Z"
+  },
+  {
+    "demFileHash": "2b12a1cc053c83e2cbc698ddfa9f5aa3f10ab905f402113b6a081c8ef35b7ff5",
+    "uid": "TLVO9B2HI",
+    "map": "speedrun_evidenz2",
+    "category": 3,
+    "time": 23132,
+    "playerSteamId": "STEAM_0:1:87291981",
+    "timestamp": "2026-05-19T16:30:22.000Z",
+    "zipFilename": "00023132_STEAM_0_1_87291981_20260519-163022.zip",
+    "path": "speedrun_evidenz2/00023132_STEAM_0_1_87291981_20260519-163022.zip",
+    "archivedAt": "2026-05-19T18:00:06.184Z"
+  },
+  {
     "demFileHash": "0fdc5e50b556c3aab6d2aefdf823ed29d12f7ba9fa4ac76e4b4caab35860fd1c",
     "uid": "KF6IJZRX0",
     "map": "speedrun_hearts",
