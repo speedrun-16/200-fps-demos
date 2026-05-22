@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "d6b0262588f894d3d18ee8efe8ea4c927d4452ac45056380b9aff7574b37db08",
+    "uid": "YQQBZFNW5",
+    "map": "speedrun_euphoria",
+    "category": 3,
+    "time": 19811,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-05-21T20:25:47.000Z",
+    "zipFilename": "00019811_STEAM_0_1_771348382_20260521-202547.zip",
+    "path": "speedrun_euphoria/00019811_STEAM_0_1_771348382_20260521-202547.zip",
+    "archivedAt": "2026-05-22T00:00:14.016Z"
+  },
+  {
     "demFileHash": "72a6c80c7cf909f905f316ab4fc2e8afc94ad08a79e725a87149d394635d08a3",
     "uid": "CRMF0B8KG",
     "map": "speedrun_veryeasy",
