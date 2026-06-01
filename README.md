@@ -17,7 +17,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_green_h](./deathrun_green_h) | 1 | 2026-02-16 |
 | [deathrun_greenworld_v1](./deathrun_greenworld_v1) | 1 | 2026-02-16 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 3 | 2026-05-11 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 7 | 2026-05-11 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 8 | 2026-06-01 |
 | [speedrun_30min](./speedrun_30min) | 2 | 2026-05-16 |
 | [speedrun_aqua](./speedrun_aqua) | 1 | 2026-04-29 |
 | [speedrun_artakey](./speedrun_artakey) | 1 | 2026-04-26 |
@@ -45,6 +45,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_garden](./speedrun_garden) | 1 | 2025-10-23 |
 | [speedrun_grasz](./speedrun_grasz) | 3 | 2025-09-24 |
 | [speedrun_grasz_final](./speedrun_grasz_final) | 3 | 2025-11-25 |
+| [speedrun_hb_ora-upania](./speedrun_hb_ora-upania) | 1 | 2026-06-01 |
 | [speedrun_hearts](./speedrun_hearts) | 1 | 2026-05-18 |
 | [speedrun_illumination](./speedrun_illumination) | 1 | 2026-01-05 |
 | [speedrun_insanity](./speedrun_insanity) | 1 | 2025-12-08 |
@@ -112,5 +113,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **102**
-- Total Demos: **184**
+- Total Maps: **103**
+- Total Demos: **186**
