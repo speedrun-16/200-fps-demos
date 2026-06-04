@@ -11,9 +11,10 @@ This directory contains player records achieved in the **200 FPS** category for 
 | #3   | [00:13.302](./00013302_STEAM_0_1_466369319_20260416-092406.zip) | [STEAM_0:1:466369319](https://speedrun16.com/profile/STEAM_0:1:466369319)   | 2026-04-16 09:24:06 |
 | #4   | [00:13.532](./00013532_STEAM_0_1_926467834_20251110-124125.zip) | [STEAM_0:1:926467834](https://speedrun16.com/profile/STEAM_0:1:926467834)   | 2025-11-10 12:41:25 |
 | #5   | [00:13.625](./00013625_STEAM_0_1_771348382_20250915-061035.zip) | [STEAM_0:1:771348382](https://speedrun16.com/profile/STEAM_0:1:771348382)   | 2025-09-15 06:10:35 |
+| #6   | [00:14.380](./00014380_STEAM_0_0_193002961_20260604-164610.zip) | [STEAM_0:0:193002961](https://speedrun16.com/profile/STEAM_0:0:193002961)   | 2026-06-04 16:46:10 |
 
 ---
 
 ### Record Summary
 **Record Holder:** [00:12.981](./00012981_STEAM_0_1_796767048_20251120-191652.zip) (by [STEAM_0:1:796767048](https://speedrun16.com/profile/STEAM_0:1:796767048))  
-**Total PBs Archived:** 5
+**Total PBs Archived:** 6

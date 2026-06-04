@@ -16,6 +16,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_fusion_ancient](./deathrun_fusion_ancient) | 1 | 2025-09-16 |
 | [deathrun_green_h](./deathrun_green_h) | 1 | 2026-02-16 |
 | [deathrun_greenworld_v1](./deathrun_greenworld_v1) | 1 | 2026-02-16 |
+| [deathrun_linea](./deathrun_linea) | 1 | 2026-06-04 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 3 | 2026-05-11 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 8 | 2026-06-01 |
 | [speedrun_30min](./speedrun_30min) | 2 | 2026-05-16 |
@@ -59,7 +60,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_megaz](./speedrun_megaz) | 1 | 2025-09-28 |
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 1 | 2025-11-19 |
 | [speedrun_neocist](./speedrun_neocist) | 2 | 2026-05-19 |
-| [speedrun_noob](./speedrun_noob) | 1 | 2026-03-30 |
+| [speedrun_noob](./speedrun_noob) | 2 | 2026-06-04 |
 | [speedrun_noob2](./speedrun_noob2) | 1 | 2026-05-14 |
 | [speedrun_nuke](./speedrun_nuke) | 1 | 2025-10-30 |
 | [speedrun_outside_estonia](./speedrun_outside_estonia) | 1 | 2026-05-15 |
@@ -95,7 +96,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_svet](./speedrun_svet) | 2 | 2026-04-12 |
 | [speedrun_svet_ext](./speedrun_svet_ext) | 3 | 2026-04-12 |
 | [speedrun_TN_f](./speedrun_TN_f) | 1 | 2025-11-04 |
-| [speedrun_tr](./speedrun_tr) | 5 | 2026-04-16 |
+| [speedrun_tr](./speedrun_tr) | 6 | 2026-06-04 |
 | [speedrun_trasher2](./speedrun_trasher2) | 1 | 2026-05-03 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 2 | 2025-11-21 |
 | [speedrun_ukraine_beta](./speedrun_ukraine_beta) | 1 | 2026-02-01 |
@@ -113,5 +114,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **103**
-- Total Demos: **186**
+- Total Maps: **104**
+- Total Demos: **189**
