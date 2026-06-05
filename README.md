@@ -95,7 +95,9 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_superspeedrun](./speedrun_superspeedrun) | 1 | 2025-12-30 |
 | [speedrun_svet](./speedrun_svet) | 2 | 2026-04-12 |
 | [speedrun_svet_ext](./speedrun_svet_ext) | 3 | 2026-04-12 |
+| [speedrun_swez](./speedrun_swez) | 1 | 2026-06-05 |
 | [speedrun_TN_f](./speedrun_TN_f) | 1 | 2025-11-04 |
+| [speedrun_toni](./speedrun_toni) | 1 | 2026-06-05 |
 | [speedrun_tr](./speedrun_tr) | 6 | 2026-06-04 |
 | [speedrun_trasher2](./speedrun_trasher2) | 1 | 2026-05-03 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 2 | 2025-11-21 |
@@ -114,5 +116,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **104**
-- Total Demos: **189**
+- Total Maps: **106**
+- Total Demos: **191**
