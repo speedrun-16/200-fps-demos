@@ -26,6 +26,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_aurea](./speedrun_aurea) | 1 | 2026-05-13 |
 | [speedrun_bieber](./speedrun_bieber) | 2 | 2026-05-19 |
 | [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 1 | 2026-05-09 |
+| [speedrun_blackblue2](./speedrun_blackblue2) | 1 | 2026-06-07 |
 | [speedrun_blue](./speedrun_blue) | 2 | 2025-10-16 |
 | [speedrun_chemical](./speedrun_chemical) | 7 | 2026-05-13 |
 | [speedrun_chemicalz](./speedrun_chemicalz) | 1 | 2025-11-12 |
@@ -70,6 +71,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_poland](./speedrun_poland) | 1 | 2025-10-19 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 4 | 2025-12-19 |
 | [speedrun_pryda_v2](./speedrun_pryda_v2) | 1 | 2026-01-19 |
+| [speedrun_pupsik](./speedrun_pupsik) | 1 | 2026-06-07 |
 | [speedrun_pupsik3](./speedrun_pupsik3) | 3 | 2025-09-16 |
 | [speedrun_r3x_final](./speedrun_r3x_final) | 4 | 2025-10-21 |
 | [speedrun_r3x_II](./speedrun_r3x_II) | 1 | 2026-05-24 |
@@ -91,6 +93,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_several_trilogy](./speedrun_several_trilogy) | 1 | 2025-12-13 |
 | [speedrun_shiny](./speedrun_shiny) | 1 | 2026-02-01 |
 | [speedrun_silent](./speedrun_silent) | 1 | 2026-04-12 |
+| [speedrun_small_white](./speedrun_small_white) | 1 | 2026-06-07 |
 | [speedrun_solitude](./speedrun_solitude) | 1 | 2025-10-22 |
 | [speedrun_superspeedrun](./speedrun_superspeedrun) | 1 | 2025-12-30 |
 | [speedrun_svet](./speedrun_svet) | 2 | 2026-04-12 |
@@ -99,6 +102,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_TN_f](./speedrun_TN_f) | 1 | 2025-11-04 |
 | [speedrun_toni](./speedrun_toni) | 1 | 2026-06-05 |
 | [speedrun_tr](./speedrun_tr) | 6 | 2026-06-04 |
+| [speedrun_tracer](./speedrun_tracer) | 1 | 2026-06-07 |
 | [speedrun_trasher2](./speedrun_trasher2) | 1 | 2026-05-03 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 2 | 2025-11-21 |
 | [speedrun_ukraine_beta](./speedrun_ukraine_beta) | 1 | 2026-02-01 |
@@ -116,5 +120,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **106**
-- Total Demos: **191**
+- Total Maps: **110**
+- Total Demos: **195**
