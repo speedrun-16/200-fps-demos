@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_megaz",
+  "updatedAt": "2026-06-19T05:49:26.052593Z",
+  "runs": [
+    {
+      "uid": "GOX94C3LT",
+      "rid": 6382,
+      "hash": "5b7ede85af803c4052e4df232ab37a11805ca07edf40996ffa61cab33918393e",
+      "t": 13305,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2025-09-28T11:34:36Z",
+      "zip": "00013305_STEAM_0_1_926467834_20250928-113436.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_megaz-20250928-#GOX94C3LT.analysis.json",
+          "off": 78,
+          "size": 330610
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_megaz-20250928-#GOX94C3LT.dem",
+          "off": 330756,
+          "size": 169489
+        },
+        {
+          "type": "replay",
+          "name": "6382.replay.xz",
+          "off": 500289,
+          "size": 44520
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_hb_ora-upania",
+  "updatedAt": "2026-06-19T05:49:26.052593Z",
+  "runs": [
+    {
+      "uid": "BDF5CD42W",
+      "rid": 60071,
+      "hash": "3de3a674a335cad96498352e1ff7d98d6e7e66f1b9e55bf6f291e62276307258",
+      "t": 25705,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-06-01T16:39:47Z",
+      "zip": "00025705_STEAM_0_1_87291981_20260601-163947.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_hb_ora-upania-20260601-#BDF5CD42W.analysis.json",
+          "off": 86,
+          "size": 580034
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_hb_ora-upania-20260601-#BDF5CD42W.dem",
+          "off": 580196,
+          "size": 214324
+        },
+        {
+          "type": "replay",
+          "name": "60071.replay.xz",
+          "off": 794565,
+          "size": 83536
+        }
+      ]
+    }
+  ]
+}

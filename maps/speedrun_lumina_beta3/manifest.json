@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_lumina_beta3",
+  "updatedAt": "2026-06-19T05:49:26.052593Z",
+  "runs": [
+    {
+      "uid": "UERFU97QL",
+      "rid": 45903,
+      "hash": "6cc03839df576ebcd3f731b72cba658eb369a9b35468cc48671274f524258c1c",
+      "t": 27956,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-04-27T17:11:17Z",
+      "zip": "00027956_STEAM_0_1_771348382_20260427-171117.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_lumina_beta3-20260427-#UERFU97QL.analysis.json",
+          "off": 85,
+          "size": 580769
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_lumina_beta3-20260427-#UERFU97QL.dem",
+          "off": 580929,
+          "size": 310137
+        },
+        {
+          "type": "replay",
+          "name": "45903.replay.xz",
+          "off": 891111,
+          "size": 93996
+        }
+      ]
+    }
+  ]
+}

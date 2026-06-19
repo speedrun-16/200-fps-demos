@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_chemical",
+  "updatedAt": "2026-06-19T05:49:26.052593Z",
+  "runs": [
+    {
+      "uid": "6RT4HGBYY",
+      "rid": 14064,
+      "hash": "f12238aadb363438349d6527657ef50a73adf459e4881a27707c2faf82010011",
+      "t": 8546,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-11-09T01:49:13Z",
+      "zip": "00008546_STEAM_0_1_29970948_20251109-014913.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_chemical-20251109-#6RT4HGBYY.analysis.json",
+          "off": 81,
+          "size": 216700
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_chemical-20251109-#6RT4HGBYY.dem",
+          "off": 216852,
+          "size": 120044
+        },
+        {
+          "type": "replay",
+          "name": "14064.replay.xz",
+          "off": 336941,
+          "size": 29988
+        }
+      ]
+    }
+  ]
+}

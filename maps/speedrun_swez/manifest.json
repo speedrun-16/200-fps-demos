@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_swez",
+  "updatedAt": "2026-06-19T05:49:26.052593Z",
+  "runs": [
+    {
+      "uid": "ZEHIZFFR4",
+      "rid": 61097,
+      "hash": "d26f192e31f03207f6fd7cdfffb9cd89b0c621a0bf7b8aed24c58885ca6a733e",
+      "t": 9877,
+      "sid": "STEAM_0:0:193002961",
+      "at": "2026-06-05T16:49:42Z",
+      "zip": "00009877_STEAM_0_0_193002961_20260605-164942.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_swez-20260605-#ZEHIZFFR4.analysis.json",
+          "off": 77,
+          "size": 261615
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_swez-20260605-#ZEHIZFFR4.dem",
+          "off": 261759,
+          "size": 132680
+        },
+        {
+          "type": "replay",
+          "name": "61097.replay.xz",
+          "off": 394484,
+          "size": 35408
+        }
+      ]
+    }
+  ]
+}

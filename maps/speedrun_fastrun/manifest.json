@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_fastrun",
+  "updatedAt": "2026-06-19T05:49:26.052593Z",
+  "runs": [
+    {
+      "uid": "S2GRIZHZA",
+      "rid": 24641,
+      "hash": "54e3b70dc9c3b8bc610e5b3bd6f367b930f36340612ce62cce1aef974de93270",
+      "t": 11781,
+      "sid": "STEAM_0:1:84733295",
+      "at": "2025-12-30T20:48:06Z",
+      "zip": "00011781_STEAM_0_1_84733295_20251230-204806.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_fastrun-20251230-#S2GRIZHZA.analysis.json",
+          "off": 80,
+          "size": 322902
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_fastrun-20251230-#S2GRIZHZA.dem",
+          "off": 323052,
+          "size": 152067
+        },
+        {
+          "type": "replay",
+          "name": "24641.replay.xz",
+          "off": 475164,
+          "size": 41924
+        }
+      ]
+    }
+  ]
+}

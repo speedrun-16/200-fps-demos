@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_solitude",
+  "updatedAt": "2026-06-19T05:49:26.052593Z",
+  "runs": [
+    {
+      "uid": "JKD81QVIL",
+      "rid": 11353,
+      "hash": "94df44e63e1c27cca21f1b7d695d10c02cbd54abcb9f7fb7daa53b1cc9dd619c",
+      "t": 22561,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-10-22T01:19:15Z",
+      "zip": "00022561_STEAM_0_1_29970948_20251022-011915.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_solitude-20251022-#JKD81QVIL.analysis.json",
+          "off": 81,
+          "size": 462419
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_solitude-20251022-#JKD81QVIL.dem",
+          "off": 462571,
+          "size": 246530
+        },
+        {
+          "type": "replay",
+          "name": "11353.replay.xz",
+          "off": 709146,
+          "size": 74800
+        }
+      ]
+    }
+  ]
+}

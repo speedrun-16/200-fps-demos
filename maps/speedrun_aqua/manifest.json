@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_aqua",
+  "updatedAt": "2026-06-19T05:49:26.052593Z",
+  "runs": [
+    {
+      "uid": "C30NHAAFY",
+      "rid": 46638,
+      "hash": "ba704900a2ec2b63055d57c3fdbd5d8e4c3d6694886d42ce9d4737c692856c39",
+      "t": 15740,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-04-29T14:03:55Z",
+      "zip": "00015740_STEAM_0_1_771348382_20260429-140355.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_aqua-20260429-#C30NHAAFY.analysis.json",
+          "off": 77,
+          "size": 332134
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_aqua-20260429-#C30NHAAFY.dem",
+          "off": 332278,
+          "size": 187733
+        },
+        {
+          "type": "replay",
+          "name": "46638.replay.xz",
+          "off": 520056,
+          "size": 51384
+        }
+      ]
+    }
+  ]
+}

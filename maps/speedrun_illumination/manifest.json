@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_illumination",
+  "updatedAt": "2026-06-19T05:49:26.052593Z",
+  "runs": [
+    {
+      "uid": "OXTRPEGAY",
+      "rid": 25541,
+      "hash": "7bfedaa8019373e98909b49efed78ca7d832392aef393e26178789153fc295c9",
+      "t": 21678,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-01-05T16:06:37Z",
+      "zip": "00021678_STEAM_0_1_771348382_20260105-160637.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_illumination-20260105-#OXTRPEGAY.analysis.json",
+          "off": 85,
+          "size": 444741
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_illumination-20260105-#OXTRPEGAY.dem",
+          "off": 444901,
+          "size": 228634
+        },
+        {
+          "type": "replay",
+          "name": "25541.replay.xz",
+          "off": 673580,
+          "size": 73240
+        }
+      ]
+    }
+  ]
+}

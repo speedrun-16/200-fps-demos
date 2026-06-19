@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_bieber_maxfps",
+  "updatedAt": "2026-06-19T05:49:26.052593Z",
+  "runs": [
+    {
+      "uid": "83DOFW3MG",
+      "rid": 50513,
+      "hash": "73db4fa6a91e9b173a7db9496d1f320bd99de7aa07c3ef13c4c2db53f25ce10f",
+      "t": 13518,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-05-09T12:11:05Z",
+      "zip": "00013518_STEAM_0_1_87291981_20260509-121105.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_bieber_maxfps-20260509-#83DOFW3MG.analysis.json",
+          "off": 86,
+          "size": 366936
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_bieber_maxfps-20260509-#83DOFW3MG.dem",
+          "off": 367098,
+          "size": 149020
+        },
+        {
+          "type": "replay",
+          "name": "50513.replay.xz",
+          "off": 516163,
+          "size": 47604
+        }
+      ]
+    }
+  ]
+}

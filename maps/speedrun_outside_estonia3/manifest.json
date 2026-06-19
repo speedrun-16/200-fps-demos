@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_outside_estonia3",
+  "updatedAt": "2026-06-19T05:49:26.052593Z",
+  "runs": [
+    {
+      "uid": "9VEAQF00M",
+      "rid": 57605,
+      "hash": "5495c9a78660c774c8f5cea7a72f1bfb4de391be6c38463e8c27176e76d3fdb4",
+      "t": 11406,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-05-28T01:41:19Z",
+      "zip": "00011406_STEAM_0_1_771348382_20260528-014119.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_outside_estonia3-20260528-#9VEAQF00M.analysis.json",
+          "off": 89,
+          "size": 279386
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_outside_estonia3-20260528-#9VEAQF00M.dem",
+          "off": 279554,
+          "size": 151070
+        },
+        {
+          "type": "replay",
+          "name": "57605.replay.xz",
+          "off": 430669,
+          "size": 41336
+        }
+      ]
+    },
+    {
+      "uid": "A96T3F35M",
+      "rid": 4135,
+      "hash": "5dc0216a77819ad32e8cc60849707eabeeab3c77540e4457ad713a7ddaf63da5",
+      "t": 11439,
+      "sid": "STEAM_0:0:188876320",
+      "at": "2025-09-20T22:26:55Z",
+      "zip": "00011439_STEAM_0_0_188876320_20250920-222655.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_outside_estonia3-20250920-#A96T3F35M.analysis.json",
+          "off": 89,
+          "size": 289620
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_outside_estonia3-20250920-#A96T3F35M.dem",
+          "off": 289788,
+          "size": 183396
+        },
+        {
+          "type": "replay",
+          "name": "4135.replay.xz",
+          "off": 473228,
+          "size": 42440
+        }
+      ]
+    },
+    {
+      "uid": "EA8MUKF9Z",
+      "rid": 4131,
+      "hash": "a1cee1daae8d607a677435e05ecfe5db4cfcc7647efad5d31f9e2ff129934113",
+      "t": 11624,
+      "sid": "STEAM_0:0:1181305",
+      "at": "2025-09-20T22:25:33Z",
+      "zip": "00011624_STEAM_0_0_1181305_20250920-222533.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_outside_estonia3-20250920-#EA8MUKF9Z.analysis.json",
+          "off": 89,
+          "size": 289463
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_outside_estonia3-20250920-#EA8MUKF9Z.dem",
+          "off": 289631,
+          "size": 158600
+        },
+        {
+          "type": "replay",
+          "name": "4131.replay.xz",
+          "off": 448275,
+          "size": 41808
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_joker1",
+  "updatedAt": "2026-06-19T05:49:26.052593Z",
+  "runs": [
+    {
+      "uid": "IJHHKKKYB",
+      "rid": 31530,
+      "hash": "cfbb0d05039b0b5e3ae4586617d363049916e259855cc937d46ff21bd717289a",
+      "t": 11729,
+      "sid": "STEAM_0:1:499355704",
+      "at": "2026-02-01T06:44:18Z",
+      "zip": "00011729_STEAM_0_1_499355704_20260201-064418.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_joker1-20260201-#IJHHKKKYB.analysis.json",
+          "off": 79,
+          "size": 359297
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_joker1-20260201-#IJHHKKKYB.dem",
+          "off": 359445,
+          "size": 169030
+        },
+        {
+          "type": "replay",
+          "name": "31530.replay.xz",
+          "off": 528520,
+          "size": 42936
+        }
+      ]
+    }
+  ]
+}

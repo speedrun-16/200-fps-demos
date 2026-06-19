@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_artakey",
+  "updatedAt": "2026-06-19T05:49:26.052593Z",
+  "runs": [
+    {
+      "uid": "4NTKZ85SX",
+      "rid": 45170,
+      "hash": "e03f3a139776b1b6d1dac647a7f26882974264e2d700d113915ef396b5cbcc12",
+      "t": 16918,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-04-26T09:58:56Z",
+      "zip": "00016918_STEAM_0_1_771348382_20260426-095856.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_artakey-20260426-#4NTKZ85SX.analysis.json",
+          "off": 80,
+          "size": 369492
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_artakey-20260426-#4NTKZ85SX.dem",
+          "off": 369642,
+          "size": 192946
+        },
+        {
+          "type": "replay",
+          "name": "45170.replay.xz",
+          "off": 562633,
+          "size": 57748
+        }
+      ]
+    }
+  ]
+}

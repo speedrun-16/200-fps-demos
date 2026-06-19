@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_scumbag2",
+  "updatedAt": "2026-06-19T05:49:26.052593Z",
+  "runs": [
+    {
+      "uid": "AT8XHMIEZ",
+      "rid": 46473,
+      "hash": "ebd32cc066a4b209111914dadba55c3d1de511b017d80fa82a58bb4f75cf32b7",
+      "t": 16474,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-04-28T18:48:45Z",
+      "zip": "00016474_STEAM_0_1_87291981_20260428-184845.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_scumbag2-20260428-#AT8XHMIEZ.analysis.json",
+          "off": 81,
+          "size": 417725
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_scumbag2-20260428-#AT8XHMIEZ.dem",
+          "off": 417877,
+          "size": 165837
+        },
+        {
+          "type": "replay",
+          "name": "46473.replay.xz",
+          "off": 583759,
+          "size": 58096
+        }
+      ]
+    }
+  ]
+}

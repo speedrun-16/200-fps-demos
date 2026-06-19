@@ -1,0 +1,93 @@
+{
+  "map": "de_dust2",
+  "updatedAt": "2026-06-19T05:49:26.052593Z",
+  "runs": [
+    {
+      "uid": "TKHCNJKKH",
+      "rid": 11064,
+      "hash": "3bac975aa7bb72b0c5652b9e5ceb1bb66ce45a65c23d7063791376740572f799",
+      "t": 6540,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2025-10-20T23:40:23Z",
+      "zip": "00006540_STEAM_0_0_24751394_20251020-234023.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "de_dust2-20251020-#TKHCNJKKH.analysis.json",
+          "off": 72,
+          "size": 206317
+        },
+        {
+          "type": "dem",
+          "name": "de_dust2-20251020-#TKHCNJKKH.dem",
+          "off": 206451,
+          "size": 101214
+        },
+        {
+          "type": "replay",
+          "name": "11064.replay.xz",
+          "off": 307710,
+          "size": 25624
+        }
+      ]
+    },
+    {
+      "uid": "K5N7C6X3F",
+      "rid": 10945,
+      "hash": "3136eefad9beb8bfea3dd2c7ec9b07d630a3bf8b008086597af71d5432acd2fc",
+      "t": 6574,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-10-20T23:09:11Z",
+      "zip": "00006574_STEAM_0_1_771348382_20251020-230911.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "de_dust2-20251020-#K5N7C6X3F.analysis.json",
+          "off": 72,
+          "size": 196113
+        },
+        {
+          "type": "dem",
+          "name": "de_dust2-20251020-#K5N7C6X3F.dem",
+          "off": 196247,
+          "size": 101543
+        },
+        {
+          "type": "replay",
+          "name": "10945.replay.xz",
+          "off": 297835,
+          "size": 24512
+        }
+      ]
+    },
+    {
+      "uid": "3ZOQC23KA",
+      "rid": 10882,
+      "hash": "2056e62f3b3f0326e73a2afd4b04beb1649bdd2fa470874da0227c0ae90e9225",
+      "t": 6780,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-10-20T23:00:06Z",
+      "zip": "00006780_STEAM_0_1_29970948_20251020-230006.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "de_dust2-20251020-#3ZOQC23KA.analysis.json",
+          "off": 72,
+          "size": 195589
+        },
+        {
+          "type": "dem",
+          "name": "de_dust2-20251020-#3ZOQC23KA.dem",
+          "off": 195723,
+          "size": 103450
+        },
+        {
+          "type": "replay",
+          "name": "10882.replay.xz",
+          "off": 299218,
+          "size": 24508
+        }
+      ]
+    }
+  ]
+}

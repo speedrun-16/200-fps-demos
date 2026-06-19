@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_leszcz",
+  "updatedAt": "2026-06-19T05:49:26.052593Z",
+  "runs": [
+    {
+      "uid": "E3DCKHJMV",
+      "rid": 46822,
+      "hash": "f31772b4eb01e15122122f8d62fda6b7f20e145be911eb0bae8add30bf79c5cd",
+      "t": 11303,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-04-29T18:44:04Z",
+      "zip": "00011303_STEAM_0_1_771348382_20260429-184404.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_leszcz-20260429-#E3DCKHJMV.analysis.json",
+          "off": 79,
+          "size": 263765
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_leszcz-20260429-#E3DCKHJMV.dem",
+          "off": 263913,
+          "size": 147906
+        },
+        {
+          "type": "replay",
+          "name": "46822.replay.xz",
+          "off": 411864,
+          "size": 39536
+        }
+      ]
+    }
+  ]
+}

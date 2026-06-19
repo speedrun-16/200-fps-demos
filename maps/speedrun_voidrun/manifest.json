@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_voidrun",
+  "updatedAt": "2026-06-19T05:49:26.052593Z",
+  "runs": [
+    {
+      "uid": "TIDX6ZINL",
+      "rid": 35240,
+      "hash": "d9509277a1567c2cea84320a98a3ee3d833866c444bb94e0655a0ede24e12111",
+      "t": 37059,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-03-06T05:10:17Z",
+      "zip": "00037059_STEAM_0_1_771348382_20260306-051017.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_voidrun-20260306-#TIDX6ZINL.analysis.json",
+          "off": 80,
+          "size": 738066
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_voidrun-20260306-#TIDX6ZINL.dem",
+          "off": 738216,
+          "size": 381038
+        },
+        {
+          "type": "replay",
+          "name": "35240.replay.xz",
+          "off": 1119299,
+          "size": 123788
+        }
+      ]
+    }
+  ]
+}

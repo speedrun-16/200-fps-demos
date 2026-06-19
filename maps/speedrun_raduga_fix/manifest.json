@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_raduga_fix",
+  "updatedAt": "2026-06-19T05:49:26.052593Z",
+  "runs": [
+    {
+      "uid": "E0HSWQZCS",
+      "rid": 14308,
+      "hash": "1d036150478026b59381062a04f1b7c429075c43f092a0fe6e12f4cf2d438827",
+      "t": 27810,
+      "sid": "STEAM_0:1:447056338",
+      "at": "2025-11-11T10:12:01Z",
+      "zip": "00027810_STEAM_0_1_447056338_20251111-101201.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_raduga_fix-20251111-#E0HSWQZCS.analysis.json",
+          "off": 83,
+          "size": 572702
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_raduga_fix-20251111-#E0HSWQZCS.dem",
+          "off": 572858,
+          "size": 266338
+        },
+        {
+          "type": "replay",
+          "name": "14308.replay.xz",
+          "off": 839241,
+          "size": 82212
+        }
+      ]
+    }
+  ]
+}

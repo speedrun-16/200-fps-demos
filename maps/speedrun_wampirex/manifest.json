@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_wampirex",
+  "updatedAt": "2026-06-19T05:49:26.052593Z",
+  "runs": [
+    {
+      "uid": "HI6VIJ5XT",
+      "rid": 8482,
+      "hash": "11caee04740a87957840262a65c7836b57801b72231f8d9d83f8474e2f85dacc",
+      "t": 8113,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-10-06T12:18:01Z",
+      "zip": "00008113_STEAM_0_1_771348382_20251006-121801.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_wampirex-20251006-#HI6VIJ5XT.analysis.json",
+          "off": 81,
+          "size": 205446
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_wampirex-20251006-#HI6VIJ5XT.dem",
+          "off": 205598,
+          "size": 119941
+        },
+        {
+          "type": "replay",
+          "name": "8482.replay.xz",
+          "off": 325583,
+          "size": 29372
+        }
+      ]
+    }
+  ]
+}
