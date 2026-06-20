@@ -1,7 +1,7 @@
 {
   "category": 3,
   "categoryName": "200 FPS",
-  "updatedAt": "2026-06-19T08:18:03.420Z",
+  "updatedAt": "2026-06-20T00:00:00.400Z",
   "maps": {
     "speedrun_blue": {
       "n": 2,
@@ -116,6 +116,12 @@
       "best": 8546,
       "at": "2025-11-09T01:49:13Z",
       "manifest": "maps/deathrun_chemical/manifest.json"
+    },
+    "speedrun_scarlet": {
+      "n": 1,
+      "best": 15134,
+      "at": "2026-06-19T18:30:26.000Z",
+      "manifest": "maps/speedrun_scarlet/manifest.json"
     },
     "speedrun_venem_strafeace": {
       "n": 1,
