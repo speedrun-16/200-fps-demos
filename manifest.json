@@ -1,7 +1,7 @@
 {
   "category": 3,
   "categoryName": "200 FPS",
-  "updatedAt": "2026-06-24T18:00:00.485Z",
+  "updatedAt": "2026-07-11T12:00:15.294Z",
   "maps": {
     "speedrun_blue": {
       "n": 2,
@@ -282,7 +282,7 @@
     "speedrun_1000fps_battle": {
       "n": 8,
       "best": 8792,
-      "at": "2026-06-01T16:30:22Z",
+      "at": "2026-07-11T08:27:11.000Z",
       "manifest": "maps/speedrun_1000fps_battle/manifest.json"
     },
     "speedrun_eliterunnerz": {
