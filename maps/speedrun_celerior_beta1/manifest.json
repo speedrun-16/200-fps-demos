@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_celerior_beta1",
+  "updatedAt": "2026-07-13T18:00:03.402Z",
+  "runs": [
+    {
+      "uid": "YE40SRT5O",
+      "rid": 69766,
+      "hash": "7b13343e54121a25a77f13aaf17da658a441bebbc9d21790961210433ffbad2b",
+      "t": 17679,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-07-13T13:26:56.000Z",
+      "zip": "00017679_STEAM_0_1_87291981_20260713-132656.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_celerior_beta1-20260713-#YE40SRT5O.dem",
+          "off": 77,
+          "size": 172149
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_celerior_beta1-20260713-#YE40SRT5O.analysis.json",
+          "off": 172313,
+          "size": 429518
+        },
+        {
+          "type": "replay",
+          "name": "69766.replay.xz",
+          "off": 601876,
+          "size": 57844
+        }
+      ]
+    }
+  ]
+}

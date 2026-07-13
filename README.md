@@ -6,8 +6,8 @@ Personal best demo archive for the 200 FPS category.
 
 | Metric | Value |
 | :-- | --: |
-| Maps | 112 |
-| Archived PBs | 198 |
+| Maps | 113 |
+| Archived PBs | 199 |
 | Latest Update | 2026-07-13 |
 
 ## Structure
