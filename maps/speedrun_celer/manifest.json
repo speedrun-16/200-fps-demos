@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_celer",
+  "updatedAt": "2026-07-13T12:00:03.176Z",
+  "runs": [
+    {
+      "uid": "IIYLJ6JTJ",
+      "rid": 69760,
+      "hash": "6069fa063bcb04570be37cc1b399db7a304ce7e82504eff144cbe5b23cf80759",
+      "t": 9598,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-07-13T10:51:33.000Z",
+      "zip": "00009598_STEAM_0_1_87291981_20260713-105133.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_celer-20260713-#IIYLJ6JTJ.dem",
+          "off": 68,
+          "size": 140770
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_celer-20260713-#IIYLJ6JTJ.analysis.json",
+          "off": 140916,
+          "size": 253587
+        },
+        {
+          "type": "replay",
+          "name": "69760.replay.xz",
+          "off": 394548,
+          "size": 32832
+        }
+      ]
+    }
+  ]
+}

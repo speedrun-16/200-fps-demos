@@ -1,7 +1,7 @@
 {
   "category": 3,
   "categoryName": "200 FPS",
-  "updatedAt": "2026-07-11T12:00:15.294Z",
+  "updatedAt": "2026-07-13T12:00:03.176Z",
   "maps": {
     "speedrun_blue": {
       "n": 2,
@@ -170,6 +170,12 @@
       "best": 14411,
       "at": "2026-06-07T13:31:23Z",
       "manifest": "maps/speedrun_blackblue2/manifest.json"
+    },
+    "speedrun_celer": {
+      "n": 1,
+      "best": 9598,
+      "at": "2026-07-13T10:51:33.000Z",
+      "manifest": "maps/speedrun_celer/manifest.json"
     },
     "deathrun_arctic": {
       "n": 3,
