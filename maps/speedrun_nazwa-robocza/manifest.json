@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_nazwa-robocza",
+  "updatedAt": "2026-07-17T18:00:00.911Z",
+  "runs": [
+    {
+      "uid": "1ZWOHROAV",
+      "rid": 71448,
+      "hash": "0bf5f290e3ab948b1fea86c8596c9ae4f9fdd8a37a4641a8bfb014d9deb30379",
+      "t": 11126,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-07-17T15:56:47.000Z",
+      "zip": "00011126_STEAM_0_1_87291981_20260717-155647.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_nazwa-robocza-20260717-#1ZWOHROAV.dem",
+          "off": 76,
+          "size": 119240
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_nazwa-robocza-20260717-#1ZWOHROAV.analysis.json",
+          "off": 119402,
+          "size": 284327
+        },
+        {
+          "type": "replay",
+          "name": "71448.replay.xz",
+          "off": 403774,
+          "size": 38008
+        }
+      ]
+    }
+  ]
+}

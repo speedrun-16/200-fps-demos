@@ -1,7 +1,7 @@
 {
   "category": 3,
   "categoryName": "200 FPS",
-  "updatedAt": "2026-07-13T18:00:03.402Z",
+  "updatedAt": "2026-07-17T18:00:00.911Z",
   "maps": {
     "speedrun_blue": {
       "n": 2,
@@ -219,6 +219,12 @@
       "at": "2026-02-16T14:51:00Z",
       "manifest": "maps/deathrun_green_h/manifest.json"
     },
+    "speedrun_nazwa-robocza": {
+      "n": 1,
+      "best": 11126,
+      "at": "2026-07-17T15:56:47.000Z",
+      "manifest": "maps/speedrun_nazwa-robocza/manifest.json"
+    },
     "speedrun_pool_simple": {
       "n": 4,
       "best": 10190,
@@ -370,9 +376,9 @@
       "manifest": "maps/speedrun_faded_bronze/manifest.json"
     },
     "speedrun_outside_estonia2": {
-      "n": 1,
+      "n": 2,
       "best": 15844,
-      "at": "2026-04-16T10:54:34Z",
+      "at": "2026-07-17T15:40:13.000Z",
       "manifest": "maps/speedrun_outside_estonia2/manifest.json"
     },
     "speedrun_several_longer": {
