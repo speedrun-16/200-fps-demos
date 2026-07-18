@@ -1,7 +1,7 @@
 {
   "category": 3,
   "categoryName": "200 FPS",
-  "updatedAt": "2026-07-17T18:00:00.911Z",
+  "updatedAt": "2026-07-18T18:00:10.320Z",
   "maps": {
     "speedrun_blue": {
       "n": 2,
@@ -46,9 +46,9 @@
       "manifest": "maps/speedrun_jiocencen/manifest.json"
     },
     "speedrun_pupsik": {
-      "n": 1,
-      "best": 8238,
-      "at": "2026-06-07T12:24:12Z",
+      "n": 2,
+      "best": 8039,
+      "at": "2026-07-18T14:41:06.000Z",
       "manifest": "maps/speedrun_pupsik/manifest.json"
     },
     "speedrun_svet_ext": {
@@ -287,8 +287,8 @@
     },
     "speedrun_celerior_beta1": {
       "n": 1,
-      "best": 17679,
-      "at": "2026-07-13T13:26:56.000Z",
+      "best": 17212,
+      "at": "2026-07-18T15:07:10.000Z",
       "manifest": "maps/speedrun_celerior_beta1/manifest.json"
     },
     "speedrun_leszcz": {
