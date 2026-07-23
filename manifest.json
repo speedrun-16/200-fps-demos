@@ -1,7 +1,7 @@
 {
   "category": 3,
   "categoryName": "200 FPS",
-  "updatedAt": "2026-07-22T00:00:01.141Z",
+  "updatedAt": "2026-07-23T18:00:07.624Z",
   "maps": {
     "speedrun_blue": {
       "n": 2,
@@ -320,6 +320,12 @@
       "best": 11589,
       "at": "2025-09-14T07:32:49Z",
       "manifest": "maps/speedrun_w00dfun_nw/manifest.json"
+    },
+    "speedrun_sunnies_flat": {
+      "n": 1,
+      "best": 17612,
+      "at": "2026-07-23T13:14:12.000Z",
+      "manifest": "maps/speedrun_sunnies_flat/manifest.json"
     },
     "deathrun_greenworld_v1": {
       "n": 1,
