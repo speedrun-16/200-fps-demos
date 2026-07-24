@@ -1,7 +1,7 @@
 {
   "category": 3,
   "categoryName": "200 FPS",
-  "updatedAt": "2026-07-23T18:00:07.624Z",
+  "updatedAt": "2026-07-24T12:00:06.415Z",
   "maps": {
     "speedrun_blue": {
       "n": 2,
@@ -14,6 +14,12 @@
       "best": 37059,
       "at": "2026-03-06T05:10:17Z",
       "manifest": "maps/speedrun_voidrun/manifest.json"
+    },
+    "deathrun_kolor_v2": {
+      "n": 1,
+      "best": 12753,
+      "at": "2026-07-24T11:32:32.000Z",
+      "manifest": "maps/deathrun_kolor_v2/manifest.json"
     },
     "speedrun_veryeasy": {
       "n": 3,
