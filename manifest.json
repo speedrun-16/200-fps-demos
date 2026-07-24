@@ -1,7 +1,7 @@
 {
   "category": 3,
   "categoryName": "200 FPS",
-  "updatedAt": "2026-07-24T12:00:06.415Z",
+  "updatedAt": "2026-07-24T18:00:05.947Z",
   "maps": {
     "speedrun_blue": {
       "n": 2,
@@ -203,8 +203,8 @@
     },
     "speedrun_evidenz": {
       "n": 1,
-      "best": 33571,
-      "at": "2026-05-16T16:01:34Z",
+      "best": 33493,
+      "at": "2026-07-24T12:00:57.000Z",
       "manifest": "maps/speedrun_evidenz/manifest.json"
     },
     "speedrun_grasz_final": {
