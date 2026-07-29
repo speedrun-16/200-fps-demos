@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_duster_beta1",
+  "updatedAt": "2026-07-29T00:00:04.138Z",
+  "runs": [
+    {
+      "uid": "1RTJDIUAA",
+      "rid": 76173,
+      "hash": "7e6e770c0c41a08fd73f2996619e5617f0c708cf91b40eb80e0be3f42e227775",
+      "t": 19641,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-07-28T19:37:47.000Z",
+      "zip": "00019641_STEAM_0_1_87291981_20260728-193747.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_duster_beta1-20260728-#1RTJDIUAA.dem",
+          "off": 75,
+          "size": 198183
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_duster_beta1-20260728-#1RTJDIUAA.analysis.json",
+          "off": 198343,
+          "size": 483258
+        },
+        {
+          "type": "replay",
+          "name": "76173.replay.xz",
+          "off": 681646,
+          "size": 62776
+        }
+      ]
+    }
+  ]
+}
