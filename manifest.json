@@ -1,7 +1,7 @@
 {
   "category": 3,
   "categoryName": "200 FPS",
-  "updatedAt": "2026-07-29T00:00:04.138Z",
+  "updatedAt": "2026-08-01T12:00:00.569Z",
   "maps": {
     "speedrun_blue": {
       "n": 2,
@@ -500,6 +500,12 @@
       "best": 10810,
       "at": "2026-01-19T23:46:41Z",
       "manifest": "maps/speedrun_pryda_v2/manifest.json"
+    },
+    "speedrun_vigazz": {
+      "n": 1,
+      "best": 22811,
+      "at": "2026-08-01T11:23:16.000Z",
+      "manifest": "maps/speedrun_vigazz/manifest.json"
     },
     "speedrun_triskelion_ruins_beta2": {
       "n": 2,
