@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_alt_jestas_beta1",
+  "updatedAt": "2026-08-04T18:00:08.436Z",
+  "runs": [
+    {
+      "uid": "TKABHO7MF",
+      "rid": 77946,
+      "hash": "c8742b26a1a0d7bf5105e81f65359853d0f55324c8e0065332ac86e5e2eb021b",
+      "t": 19970,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-08-04T15:44:28.000Z",
+      "zip": "00019970_STEAM_0_1_87291981_20260804-154428.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_alt_jestas_beta1-20260804-#TKABHO7MF.dem",
+          "off": 79,
+          "size": 199957
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_alt_jestas_beta1-20260804-#TKABHO7MF.analysis.json",
+          "off": 200125,
+          "size": 486451
+        },
+        {
+          "type": "replay",
+          "name": "77946.replay.xz",
+          "off": 686621,
+          "size": 66256
+        }
+      ]
+    }
+  ]
+}

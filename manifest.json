@@ -1,7 +1,7 @@
 {
   "category": 3,
   "categoryName": "200 FPS",
-  "updatedAt": "2026-08-01T12:00:00.569Z",
+  "updatedAt": "2026-08-04T18:00:08.436Z",
   "maps": {
     "speedrun_blue": {
       "n": 2,
@@ -668,6 +668,12 @@
       "best": 12739,
       "at": "2025-12-13T08:10:27Z",
       "manifest": "maps/speedrun_several_trilogy/manifest.json"
+    },
+    "speedrun_alt_jestas_beta1": {
+      "n": 1,
+      "best": 19970,
+      "at": "2026-08-04T15:44:28.000Z",
+      "manifest": "maps/speedrun_alt_jestas_beta1/manifest.json"
     },
     "speedrun_euphoria": {
       "n": 4,
