@@ -1,7 +1,7 @@
 {
   "category": 3,
   "categoryName": "200 FPS",
-  "updatedAt": "2026-08-04T18:00:08.436Z",
+  "updatedAt": "2026-08-08T06:00:03.691Z",
   "maps": {
     "speedrun_blue": {
       "n": 2,
@@ -242,6 +242,12 @@
       "best": 10190,
       "at": "2025-12-19T15:08:26Z",
       "manifest": "maps/speedrun_pool_simple/manifest.json"
+    },
+    "speedrun_alt_terassi": {
+      "n": 1,
+      "best": 21081,
+      "at": "2026-08-08T04:50:16.000Z",
+      "manifest": "maps/speedrun_alt_terassi/manifest.json"
     },
     "speedrun_outside_estonia3": {
       "n": 3,
