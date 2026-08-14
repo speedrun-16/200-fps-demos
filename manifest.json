@@ -1,7 +1,7 @@
 {
   "category": 3,
   "categoryName": "200 FPS",
-  "updatedAt": "2026-08-13T18:00:01.046Z",
+  "updatedAt": "2026-08-14T00:00:03.681Z",
   "maps": {
     "speedrun_blue": {
       "n": 2,
@@ -266,6 +266,12 @@
       "best": 25705,
       "at": "2026-06-01T16:39:47Z",
       "manifest": "maps/speedrun_hb_ora-upania/manifest.json"
+    },
+    "speedrun_desert_fix": {
+      "n": 1,
+      "best": 16847,
+      "at": "2026-08-13T18:04:58.000Z",
+      "manifest": "maps/speedrun_desert_fix/manifest.json"
     },
     "speedrun_vonthe": {
       "n": 1,

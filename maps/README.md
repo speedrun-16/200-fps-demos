@@ -6,8 +6,8 @@ Map-level archive directory for the 200 FPS category.
 
 | Metric | Value |
 | :-- | --: |
-| Maps | 124 |
-| Archived PBs | 214 |
+| Maps | 125 |
+| Archived PBs | 215 |
 | Latest Update | 2026-08-13 |
 
 ## Structure
