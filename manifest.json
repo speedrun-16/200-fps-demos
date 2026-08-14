@@ -1,7 +1,7 @@
 {
   "category": 3,
   "categoryName": "200 FPS",
-  "updatedAt": "2026-08-14T00:00:03.681Z",
+  "updatedAt": "2026-08-14T12:00:10.583Z",
   "maps": {
     "speedrun_blue": {
       "n": 2,
@@ -560,6 +560,12 @@
       "best": 15593,
       "at": "2025-11-12T22:08:01Z",
       "manifest": "maps/speedrun_chemicalz/manifest.json"
+    },
+    "speedrun_noob3": {
+      "n": 1,
+      "best": 13430,
+      "at": "2026-08-14T07:44:37.000Z",
+      "manifest": "maps/speedrun_noob3/manifest.json"
     },
     "de_dust": {
       "n": 4,
