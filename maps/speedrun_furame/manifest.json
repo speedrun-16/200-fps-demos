@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_furame",
+  "updatedAt": "2026-08-15T00:00:04.909Z",
+  "runs": [
+    {
+      "uid": "258LOXPXI",
+      "rid": 82059,
+      "hash": "0539464c339342d14a2212d4dd852925055f47425cebe1ded113f590c96d461b",
+      "t": 18261,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-08-14T19:20:02.000Z",
+      "zip": "00018261_STEAM_0_1_87291981_20260814-192002.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_furame-20260814-#258LOXPXI.dem",
+          "off": 69,
+          "size": 179402
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_furame-20260814-#258LOXPXI.analysis.json",
+          "off": 179550,
+          "size": 446034
+        },
+        {
+          "type": "replay",
+          "name": "82059.replay.xz",
+          "off": 625629,
+          "size": 61144
+        }
+      ]
+    }
+  ]
+}

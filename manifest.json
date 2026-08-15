@@ -1,7 +1,7 @@
 {
   "category": 3,
   "categoryName": "200 FPS",
-  "updatedAt": "2026-08-14T12:00:10.583Z",
+  "updatedAt": "2026-08-15T00:00:04.909Z",
   "maps": {
     "speedrun_blue": {
       "n": 2,
@@ -244,9 +244,9 @@
       "manifest": "maps/speedrun_pool_simple/manifest.json"
     },
     "speedrun_alt_terassi": {
-      "n": 1,
-      "best": 21081,
-      "at": "2026-08-08T04:50:16.000Z",
+      "n": 2,
+      "best": 18490,
+      "at": "2026-08-14T19:48:39.000Z",
       "manifest": "maps/speedrun_alt_terassi/manifest.json"
     },
     "speedrun_outside_estonia3": {
@@ -471,6 +471,12 @@
       "at": "2026-05-14T11:06:06Z",
       "manifest": "maps/speedrun_vantara/manifest.json"
     },
+    "speedrun_furame": {
+      "n": 1,
+      "best": 18261,
+      "at": "2026-08-14T19:20:02.000Z",
+      "manifest": "maps/speedrun_furame/manifest.json"
+    },
     "speedrun_noob2": {
       "n": 1,
       "best": 9536,
@@ -520,9 +526,9 @@
       "manifest": "maps/speedrun_hearts/manifest.json"
     },
     "speedrun_pryda_v2": {
-      "n": 1,
-      "best": 10810,
-      "at": "2026-01-19T23:46:41Z",
+      "n": 2,
+      "best": 10639,
+      "at": "2026-08-14T19:42:41.000Z",
       "manifest": "maps/speedrun_pryda_v2/manifest.json"
     },
     "speedrun_vigazz": {

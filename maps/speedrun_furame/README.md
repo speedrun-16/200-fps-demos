@@ -1,4 +1,4 @@
-# speedrun_alt_terassi
+# speedrun_furame
 
 Personal best demo archive for this map in the 200 FPS category.
 
@@ -6,7 +6,7 @@ Personal best demo archive for this map in the 200 FPS category.
 
 | Metric | Value |
 | :-- | --: |
-| Archived PBs | 2 |
+| Archived PBs | 1 |
 | Latest Update | 2026-08-14 |
 
 ## Structure
