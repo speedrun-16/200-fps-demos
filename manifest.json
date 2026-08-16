@@ -1,7 +1,7 @@
 {
   "category": 3,
   "categoryName": "200 FPS",
-  "updatedAt": "2026-08-15T00:00:04.909Z",
+  "updatedAt": "2026-08-16T18:00:14.166Z",
   "maps": {
     "speedrun_blue": {
       "n": 2,
@@ -518,6 +518,12 @@
       "best": 11781,
       "at": "2025-12-30T20:48:06Z",
       "manifest": "maps/speedrun_fastrun/manifest.json"
+    },
+    "speedrun_20min": {
+      "n": 2,
+      "best": 6984,
+      "at": "2026-08-16T14:02:03.000Z",
+      "manifest": "maps/speedrun_20min/manifest.json"
     },
     "speedrun_hearts": {
       "n": 1,
