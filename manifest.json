@@ -1,7 +1,7 @@
 {
   "category": 3,
   "categoryName": "200 FPS",
-  "updatedAt": "2026-08-16T18:00:14.166Z",
+  "updatedAt": "2026-08-17T00:00:18.320Z",
   "maps": {
     "speedrun_blue": {
       "n": 2,
@@ -38,6 +38,12 @@
       "best": 7216,
       "at": "2025-10-31T02:24:30Z",
       "manifest": "maps/de_inferno/manifest.json"
+    },
+    "speedrun_physical": {
+      "n": 1,
+      "best": 11394,
+      "at": "2026-08-16T19:37:18.000Z",
+      "manifest": "maps/speedrun_physical/manifest.json"
     },
     "speedrun_exort": {
       "n": 1,
