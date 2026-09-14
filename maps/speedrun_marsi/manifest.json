@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_marsi",
+  "updatedAt": "2026-09-14T18:00:00.473Z",
+  "runs": [
+    {
+      "uid": "MWBMV7Z1C",
+      "rid": 91506,
+      "hash": "2536ffcd40cd875d7765e398ab6d2c3b1767c9507bce404c43bece0465a2b3a8",
+      "t": 11816,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-09-14T16:42:00.000Z",
+      "zip": "00011816_STEAM_0_1_87291981_20260914-164200.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_marsi-20260914-#MWBMV7Z1C.dem",
+          "off": 68,
+          "size": 127288
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_marsi-20260914-#MWBMV7Z1C.analysis.json",
+          "off": 127434,
+          "size": 324428
+        },
+        {
+          "type": "replay",
+          "name": "91506.replay.xz",
+          "off": 451907,
+          "size": 40980
+        }
+      ]
+    }
+  ]
+}
