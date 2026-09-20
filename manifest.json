@@ -1,7 +1,7 @@
 {
   "category": 3,
   "categoryName": "200 FPS",
-  "updatedAt": "2026-09-14T18:00:00.473Z",
+  "updatedAt": "2026-09-20T18:00:00.799Z",
   "maps": {
     "speedrun_blue": {
       "n": 2,
@@ -340,9 +340,9 @@
       "manifest": "maps/speedrun_leszcz/manifest.json"
     },
     "speedrun_1000fps_battle": {
-      "n": 8,
+      "n": 9,
       "best": 8720,
-      "at": "2026-08-12T21:41:33.000Z",
+      "at": "2026-09-20T17:59:33.000Z",
       "manifest": "maps/speedrun_1000fps_battle/manifest.json"
     },
     "speedrun_eliterunnerz": {
