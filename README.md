@@ -8,7 +8,7 @@ Personal best demo archive for the 200 FPS category.
 | :-- | --: |
 | Maps | 133 |
 | Archived PBs | 228 |
-| Latest Update | 2026-09-20 |
+| Latest Update | 2026-10-04 |
 
 ## Structure
 
