@@ -1,7 +1,7 @@
 {
   "category": 3,
   "categoryName": "200 FPS",
-  "updatedAt": "2026-10-05T00:00:06.970Z",
+  "updatedAt": "2026-10-11T18:00:13.761Z",
   "maps": {
     "speedrun_blue": {
       "n": 2,
@@ -286,9 +286,9 @@
       "manifest": "maps/speedrun_desert_fix/manifest.json"
     },
     "speedrun_df_r7_brigi": {
-      "n": 2,
+      "n": 3,
       "best": 12827,
-      "at": "2026-08-25T19:27:39.000Z",
+      "at": "2026-10-11T14:40:40.000Z",
       "manifest": "maps/speedrun_df_r7_brigi/manifest.json"
     },
     "speedrun_vonthe": {
