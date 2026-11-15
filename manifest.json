@@ -1,7 +1,7 @@
 {
   "category": 3,
   "categoryName": "200 FPS",
-  "updatedAt": "2026-11-12T18:00:04.237Z",
+  "updatedAt": "2026-11-15T00:00:15.435Z",
   "maps": {
     "speedrun_blue": {
       "n": 2,
@@ -68,6 +68,12 @@
       "best": 8039,
       "at": "2026-07-18T14:41:06.000Z",
       "manifest": "maps/speedrun_pupsik/manifest.json"
+    },
+    "speedrun_wonderland5_beta1": {
+      "n": 1,
+      "best": 27993,
+      "at": "2026-11-14T21:14:37.000Z",
+      "manifest": "maps/speedrun_wonderland5_beta1/manifest.json"
     },
     "speedrun_svet_ext": {
       "n": 3,
